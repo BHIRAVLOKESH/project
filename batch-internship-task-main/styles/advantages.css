@@ -1,0 +1,87 @@
+.advantages{
+    position: relative;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 12rem;
+    margin-bottom: 9rem;
+}
+
+#advantages{
+    flex-direction: row;
+}
+
+.advantages__container{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.advantages__headerbox{
+    display: flex;
+    flex-direction: column;
+}
+
+.advantages__box{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+#spray__5{
+    right: 200px;
+}
+
+#star__5{
+    right: 0;
+    top: -50px;
+}
+
+#star__6{
+    right: 600px;
+    bottom: -100px;
+}
+
+#rings__3{
+    max-width: 200%;
+    max-height: 200%;
+    top: -150px;
+    right: 30px;
+}
+
+#iphone__5{
+    max-width: 200%;
+    max-height: 200%;
+    right: 40px;
+    top: -100px;
+}
+
+#star__7{
+    right: 200px;
+    bottom: -150px;
+}
+
+#spray__6{
+    max-width: 200%;
+    max-height: 200%;
+    left: 20px;
+    bottom: -200px;
+}
+
+#rings__4{
+    max-width: 280%;
+    max-height: 280%;
+    left: -50px;
+    top: -150px;
+}
+
+#iphone__6{
+    max-width: 280%;
+    max-height: 280%;
+    left: 100px;
+    top: -100px;
+}
+
+#visa__card{
+    left: 160px;
+}
